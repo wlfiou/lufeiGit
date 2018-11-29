@@ -24,7 +24,6 @@
 
 - (void)speak {
     NSLog(@"test:%@",_test); //打印的是当前结构体的首位指针 + 2
-    NSLog(@"test 09817:%@",_test);
     NSLog(@"test1:%@",_test1); // 打印的是当前结构体的首位指针 + 4
 }
 
